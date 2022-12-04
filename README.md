@@ -1,2 +1,24 @@
-# Vuejs-Parent-child-Interaction
-Here , I developed a Tree component for my Vue project, with full logic of parent-child interaction between elements
+# parent-children-interaction
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
